@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Olowokere-Destiny.github.io/meme-generator/static/css/main.bd21a704.css",
-    "main.js": "/Olowokere-Destiny.github.io/meme-generator/static/js/main.b86b7bff.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Olowokere-Destiny.github.io/meme-generator/static/js/787.28cb0dcd.chunk.js",
-    "static/media/lol.png": "/Olowokere-Destiny.github.io/meme-generator/static/media/lol.008d3dae7baa0c6db573.png",
-    "index.html": "/Olowokere-Destiny.github.io/meme-generator/index.html",
-    "main.bd21a704.css.map": "/Olowokere-Destiny.github.io/meme-generator/static/css/main.bd21a704.css.map",
-    "main.b86b7bff.js.map": "/Olowokere-Destiny.github.io/meme-generator/static/js/main.b86b7bff.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Olowokere-Destiny.github.io/meme-generator/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/meme-generator/static/css/main.bd21a704.css",
+    "main.js": "/meme-generator/static/js/main.8e9500b2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/meme-generator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/lol.png": "/meme-generator/static/media/lol.008d3dae7baa0c6db573.png",
+    "index.html": "/meme-generator/index.html",
+    "main.bd21a704.css.map": "/meme-generator/static/css/main.bd21a704.css.map",
+    "main.8e9500b2.js.map": "/meme-generator/static/js/main.8e9500b2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/meme-generator/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd21a704.css",
-    "static/js/main.b86b7bff.js"
+    "static/js/main.8e9500b2.js"
   ]
 }
